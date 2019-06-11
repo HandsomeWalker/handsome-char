@@ -1,6 +1,6 @@
 {
   "name": "handsome-char",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "generate character as you like, only English letters and Numbers",
   "main": "index.js",
   "scripts": {
