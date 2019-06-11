@@ -25,11 +25,11 @@ function handsome(rule) {
         num_reg = /\d(-|\*)\d/,
         upper_reg = /[A-Z](-|\*)[A-Z]/,
         lower_reg = /[a-z](-|\*)[a-z]/;
-    if(Object.prototype.toString.call(rule) !== '[object String]') {
-        return '';
-    }
     if(typeof rule === 'undefined') {
         return randomChar(num + lower + upper, 4);
+    }
+    if(Object.prototype.toString.call(rule) !== '[object String]') {
+        return '';
     }
     if(/^[0-9]*$/.test(rule)) {
         return randomChar(num + lower + upper, parseInt(rule));
