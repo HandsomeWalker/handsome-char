@@ -1,0 +1,23 @@
+{
+  "name": "handsome-char",
+  "version": "1.0.0",
+  "description": "generate character as you like, only English letters and Numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HandsomeWalker/handsome-char.git"
+  },
+  "keywords": [
+    "character",
+    "generator"
+  ],
+  "author": "HandsomeWalker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HandsomeWalker/handsome-char/issues"
+  },
+  "homepage": "https://github.com/HandsomeWalker/handsome-char#readme"
+}
