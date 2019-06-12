@@ -14,7 +14,7 @@ var str2 = char('20');
 
 ## Rule
 
-NOTE: only 1 param of type string required
+NOTE: only 1 param of type string required\
 using '|' to split diffrent conditions, result in turn will be outputted according to the sequence of rule
 
 '1-5': 1~5 in turn
