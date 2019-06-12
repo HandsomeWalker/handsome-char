@@ -18,7 +18,9 @@ NOTE: only 1 param of type string required
 using '|' to split diffrent conditions, result in turn will be outputted according to the sequence of rule
 
 '1-5': 1~5 in turn
+
 '(2-9)^2': repeat 2 times of 2~9 in turn
+
 '(3*7)^5': pick 5 numbers from range of 3~7
 
 and so is the "lowerCase" or "upperCase"
