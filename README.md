@@ -21,6 +21,6 @@ using '|' to split diffrent conditions, result in turn will be outputted accordi
 
 '(2-9)^2': repeat 2 times of 2~9 in turn
 
-'(3*7)^5': pick 5 numbers from range of 3~7
+'(3*7)^5': pick 5 random numbers from range of 3~7
 
 and so is the "lowerCase" or "upperCase"
