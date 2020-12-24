@@ -1,4 +1,4 @@
-generate string as you like, only English letters and Numbers
+generate string as you like, only English letters and Numbers supported
 
 ## Usage
 
@@ -24,3 +24,5 @@ using '|' to split diffrent conditions, result in turn will be outputted accordi
 '(3*7)^5': pick 5 random numbers from range of 3~7
 
 and so is the "lowerCase" or "upperCase"
+
+enjoy🙉
