@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "generate character as you like, only English letters and Numbers",
   "main": "index.js",
+  "typings": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,7 +16,7 @@
     "generator"
   ],
   "author": "HandsomeWalker",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/HandsomeWalker/handsome-char/issues"
   },
