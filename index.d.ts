@@ -7,6 +7,6 @@
  * and so is the "lowerCase" or "upperCase"
  * enjoy🙉
  * @param {string} rule
- * @example handsome('1-5|(2-9)^2|(3*7)^5|a-d|(c-e)^6|(d*g)^5|A-D|(C-E)^6|(D*G)^5')
+ * @example handsomeChar('1-5|(2-9)^2|(3*7)^5|a-d|(c-e)^6|(d*g)^5|A-D|(C-E)^6|(D*G)^5')
  */
-export default function handsome (rule: string): string;
+export default function handsomeChar (rule: string): string;
